@@ -2,4 +2,7 @@
 2. En una consola linux o windows entre a la carpeta y busque el archivo y ejecute el siquiente comando
 	
 	javac run.java
-3. java run
+
+3. por último ejecute :
+
+	java run
